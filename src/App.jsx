@@ -19,7 +19,7 @@ function App() {
           <FavouritesPage />
         </Route>
       </Switch>
-      </Layout>
+    </Layout>
   );
 }
 
